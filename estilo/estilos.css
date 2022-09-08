@@ -1,0 +1,17 @@
+body {
+    color: #063129;
+    text-align: center;
+    font-family: arial;
+    background-color: #8becff ;
+}
+#conteiner {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #061646;
+    margin: 0 auto;
+}
+#conteiner h2 {
+    color: #1349F0;
+    text-align: center;
+}
